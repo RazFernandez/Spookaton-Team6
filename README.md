@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 
-This project challenges each team to design an **interactive Java REST API** that simulates an **escape room experience**.  
+This project challenges the team to design an **interactive Java REST API** that simulates an **escape room experience**.  
 Players interact with the haunted digital world through **HTTP requests**, solving clues and riddles to “escape” from a cursed server.
 
 The challenge tests:
@@ -12,9 +12,13 @@ The challenge tests:
 
 ---
 
+![Project Initialization](Images/imagen1.jpg)
+
+
+---
 ## 🧠 Concept
 
-Each team must create a **Java REST API** that behaves like a **digital escape room**.
+A **Java REST API** that behaves like a **digital escape room** was created.
 
 Players begin **“trapped”** inside a haunted server and must solve a series of puzzles by sending the right HTTP requests to the corresponding endpoints.  
 Each correct request reveals new narrative clues, riddles, or keys that allow progression to the next stage.
@@ -63,7 +67,7 @@ The goal: escape from the haunted server by collecting all keys and unlocking th
 
 ---
 
-## 💡 Tips for Development
+## 💡 Development
 
 - Implement each puzzle or riddle through **logic validation** on endpoints.
 - Use **JSON-based storytelling**, combining narrative with gameplay.
@@ -83,9 +87,15 @@ The goal: escape from the haunted server by collecting all keys and unlocking th
 
 ---
 
-## 🕯️ Narrative Element (Optional)
+## 🕯️ Narrative 
 
-Include immersive text for each endpoint response, for example:
+Ana and Annie are two little sisters who love Halloween, especially the candy. When their mom sends them out to go trick-or-treating, they couldn’t be happier. They knock on doors all night long, filling their bags with sweets and laughter, until they finally reach the old, creepy house at the end of the street.
+
+“Wow, that house has amazing decorations!” Ana whispers, her eyes wide with excitement. Annie nods eagerly, clutching her candy bag a little tighter. Neither of them suspects the truth waiting inside.
+
+Annie knocks gently on the door, but before she can knock again, it slowly creaks open on its own. Curious and fearless, the sisters step inside, thinking someone is playing a spooky Halloween prank. But the moment they cross the threshold, the door slams shut behind them and locks.
+
+Silence fills the air. In front of them, a small table holds a single note with mysterious handwriting. It’s a riddle—one they must solve if they want to escape the haunted house.
 
 ```json
 {
@@ -99,7 +109,7 @@ aaegrgesgaeg
 
 ## 🧙‍♂️ Objective
 
-By the end of this challenge, your API should:
+API should:
 - Run on a local or hosted Java environment.
 - Contain at least **4 REST endpoints** with sequential puzzle logic.
 - Return **JSON-formatted narrative feedback**.
