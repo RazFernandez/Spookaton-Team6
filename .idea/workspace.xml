@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd745c62-7d4b-4c68-892d-ca68f40240bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spookaton.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="0729dc94-94c9-4bb2-919f-642d8d571cc7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,41 +16,42 @@
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
-    "assignee": "Diego2gonzalez"
+    "assignee": "rtkaleb"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/RazFernandez/Spookaton-Team6.git",
-    "accountId": "9ff0d53e-0574-44b6-93e4-53a412819817"
+    "accountId": "f30dcf07-9b1e-426c-9f3b-518c798a195b"
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="34qdcHd9KJNNTszPWi5B7IYhYFH" />
+  <component name="ProjectId" id="34qcgrubiCSdAaIfzztL7Et2lBE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "testDiego",
-    "ignore.virus.scanning.warn.message": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "kalebtesting",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/diego/OneDrive/Escritorio/spookaton"
+    "last_opened_file_path": "C:/Users/kal_o/OneDrive/Escritorio/Spookaton"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd745c62-7d4b-4c68-892d-ca68f40240bb" name="Changes" comment="" />
-      <created>1761945114306</created>
+      <changelist id="0729dc94-94c9-4bb2-919f-642d8d571cc7" name="Changes" comment="" />
+      <created>1761944656445</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761945114306</updated>
+      <updated>1761944656445</updated>
     </task>
     <servers />
   </component>
