@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0729dc94-94c9-4bb2-919f-642d8d571cc7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fantasmas/dto/createuserrequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/fantasmas/documents/clues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/fantasmas/documents/clues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/fantasmas/documents/rooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/fantasmas/documents/rooms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/fantasmas/documents/users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/fantasmas/documents/users.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +36,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="34qcgrubiCSdAaIfzztL7Et2lBE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +56,12 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="spookaton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="spookaton" />
       <method v="2">
