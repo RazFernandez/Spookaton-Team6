@@ -9,6 +9,7 @@ public class rooms {
     String id;
     String room;
     int keysToOpen;
+    String status;
 
     
     public rooms(String id, String room, int keysToOpen) {
